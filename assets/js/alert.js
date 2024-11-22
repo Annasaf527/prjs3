@@ -1,5 +1,4 @@
 'use strict'
-// Задание 1
 let price = prompt('Стоимость товара')
 let money = prompt('Ваши деньги')
 if(price === money){
