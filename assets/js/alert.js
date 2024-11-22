@@ -11,17 +11,17 @@ if(price === money){
 }
 
 // Задание 2
-let nomber = prompt ('число')
-if (nomber>0){
-    alert('1')
-}else if (nomber < 0){
-    alert('-1')
-}else if (nomber == 0){
-    alert('0')
-}
+// let nomber = prompt ('число')
+// if (nomber>0){
+//     alert('1')
+// }else if (nomber < 0){
+//     alert('-1')
+// }else if (nomber == 0){
+//     alert('0')
+// }
 
-// Задание 3
-let result = (a + b < 4) ? 'Мало' : 'Много'
+// // Задание 3
+// let result = (a + b < 4) ? 'Мало' : 'Много'
 
-// Задание 4
-let message = (login == 'Сотрудник') ? 'Привет' : (login == 'Директор') ?  'Здравствуйте' : (login == '') ? 'Нет логина' : ''Пусто”
+// // Задание 4
+// let message = (login == 'Сотрудник') ? 'Привет' : (login == 'Директор') ?  'Здравствуйте' : (login == '') ? 'Нет логина' : ''Пусто”
